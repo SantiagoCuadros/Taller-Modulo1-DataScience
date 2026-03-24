@@ -1,6 +1,6 @@
 # Taller Módulo 1 — Salud Mundial
 
-**Autor:** Santiago Cuadros  
+**Autor:** Santiago Cuadros Montilla
 **Máster:** IA & Data Science — DevSeniorCode
 
 ## Descripción
