@@ -5,19 +5,19 @@
 
 ## Descripción
 
-Este proyecto analiza un dataset de indicadores de salud mundial de 159 países aplicando Python puro y Pandas para explorar, limpiar y extraer conclusiones sobre la salud pública a nivel global.
+Este proyecto analiza un dataset que nos dio la profe de indicadores de salud mundial de 159 países aplicando Python puro y Pandas para explorar, limpiar y extraer conclusiones sobre la salud pública a nivel global.
 
 ## Dataset
 
 El archivo `salud_mundial.csv` contiene datos de **159 países** con **13 indicadores de salud pública**, incluyendo esperanza de vida, gasto en salud, mortalidad infantil, cobertura de vacunación, entre otros. Los datos incluyen valores nulos intencionalmente para practicar limpieza de datos.
 
-## Cómo ejecutar
+## Cómo ejecutar (Todo en GitHub Bash)
 
-1. Clona el repositorio:
+1. Clonacion del repositorio:
    ```bash
    git clone https://github.com/SantiagoCuadros/Taller-Modulo1-DataScience.git
    ```
-2. Instala las dependencias:
+2. Instalacion de las dependencias:
    ```bash
    pip install pandas jupyter
    ```
